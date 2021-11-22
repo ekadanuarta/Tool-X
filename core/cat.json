@@ -1,0 +1,17 @@
+{
+  "information_gathering" : "Information Gathering",
+  "vulnerability_scanner" : "Vulnerability Scanner",
+  "exploitation_tools" : "Exploitation Tools",
+  "wireless_testing" : "Wireless Testing",
+  "forensics_tools" : "Forensics Tools",
+  "web_hacking" : "Web Hacking",
+  "stress_testing" : "Stress Testing",
+  "sniffing_spoofing" : "Sniffing & Spoofing",
+  "password_attack" : "Password Attacks",
+  "maintaining_access" : "Maintaining Access",
+  "ip_tracking" : "IP-Tracking tools",
+  "programming_language" : "Programming Languages",
+  "ddos" : "DDOS Attacks",
+  "web_server" : "Web Server's",
+  "termux_os" : "Termux OS"
+}
